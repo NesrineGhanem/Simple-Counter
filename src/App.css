@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  
+}
+.increment{
+  height: 100px;
+  width: 100px;
+  margin: 30px;
+  background: conic-gradient(
+    from 45deg,
+    red,
+    rgb(236, 196, 123),
+    rgb(235, 235, 139),
+    rgb(166, 166, 227),
+    purple)
+}
+.decrement{
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  color: black;
+  size: 30px;
+  background: repeating-radial-gradient(
+    rgb(233, 195, 195) 5px,
+    rgb(240, 203, 203) 10px
+  );
+}
+
+
+
